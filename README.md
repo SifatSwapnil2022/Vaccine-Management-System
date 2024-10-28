@@ -9,7 +9,9 @@ Key Features
 User Authentication:
 
 Password Protection: Admins must enter a password to access the system.
+
 OTP Verification: An OTP is generated and verified for enhanced security during login.
+
 Data Management:
 
 Add Record: Input patient details including name, mobile number, NID, gender, vaccine injected, and address.
